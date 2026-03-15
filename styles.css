@@ -1,0 +1,33 @@
+body{
+font-family: Arial, sans-serif;
+}
+
+.bg-gradient{
+background: linear-gradient(135deg,#667eea,#764ba2);
+}
+
+.login-card{
+width:350px;
+border-radius:10px;
+}
+
+.card{
+border:none;
+box-shadow:0 10px 20px rgba(0,0,0,0.2);
+}
+
+button{
+transition:0.3s;
+}
+
+button:hover{
+transform:scale(1.05);
+}
+
+a{
+text-decoration:none;
+}
+
+a:hover{
+color:#764ba2;
+}
